@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="src/main/resources/logo.png" alt="Suitcase Glider logo" width="180">
+<p align="center"><img src="src/main/resources/logo.png" alt="Suitcase Glider logo" width="180"></p>
 
 # Suitcase Glider
 **Чемодан, который раскрывается в планер, когда земля становится слишком близко.**
@@ -11,8 +9,6 @@
 ![Version 0.1.0](https://img.shields.io/badge/Version-0.1.0-4D7CAB?style=flat-square)
 
 **Русский** · [English](README_EN.md) · [Скачать мод](https://github.com/Deenfoool/suit-case-glider/raw/refs/heads/main/suitcaseglider-0.1.0.jar) · [Сообщить об ошибке](https://github.com/Deenfoool/suit-case-glider/issues)
-
-</div>
 
 ---
 
