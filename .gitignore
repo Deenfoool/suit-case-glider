@@ -1,0 +1,29 @@
+# Gradle output / local state
+.gradle/
+build/
+out/
+
+# Minecraft development runs, saves and logs
+run/
+run-client/
+run-server/
+logs/
+crash-reports/
+saves/
+screenshots/
+
+# IDE / OS
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Compiler / temporary files
+*.class
+*.log
+*.tmp
+*.bak
