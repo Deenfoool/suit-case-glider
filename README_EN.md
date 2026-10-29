@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="src/main/resources/logo.png" alt="Suitcase Glider logo" width="180">
+<p align="center"><img src="src/main/resources/logo.png" alt="Suitcase Glider logo" width="180"></p>
 
 # Suitcase Glider
 **A suitcase that unfolds into a glider when the ground gets too close.**
@@ -11,8 +9,6 @@
 ![Version 0.1.0](https://img.shields.io/badge/Version-0.1.0-4D7CAB?style=flat-square)
 
 [**Русский**](README.md) · **English** · [Download the mod](https://github.com/Deenfoool/suit-case-glider/raw/refs/heads/main/suitcaseglider-0.1.0.jar) · [Report an issue](https://github.com/Deenfoool/suit-case-glider/issues)
-
-</div>
 
 ---
 
