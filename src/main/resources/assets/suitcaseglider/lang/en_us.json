@@ -1,0 +1,8 @@
+{
+  "item.suitcaseglider.glider": "Suitcase Glider",
+  "itemGroup.suitcaseglider": "Suitcase Glider",
+  "enchantment.suitcaseglider.soaring": "Soaring",
+  "tooltip.suitcaseglider.auto": "Select it: opens automatically during dangerous falls.",
+  "tooltip.suitcaseglider.hands": "Both hands are occupied in flight. Stows after landing.",
+  "tooltip.suitcaseglider.dye": "Dye the canvas in a crafting grid. Repair with leather."
+}

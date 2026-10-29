@@ -1,0 +1,8 @@
+{
+  "item.suitcaseglider.glider": "Походный планер",
+  "itemGroup.suitcaseglider": "Чемодан-планер",
+  "enchantment.suitcaseglider.soaring": "Парение",
+  "tooltip.suitcaseglider.auto": "Выбери в хотбаре: раскроется при опасном падении.",
+  "tooltip.suitcaseglider.hands": "В полёте заняты обе руки. Складывается после посадки.",
+  "tooltip.suitcaseglider.dye": "Окрась ткань красителем на верстаке. Починка кожей."
+}
